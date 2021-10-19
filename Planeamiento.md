@@ -1,3 +1,14 @@
+## Base de datos MYSQL
+
+-
+
+## Servicios web
+
+1. Mostrar la base de datos con la información de los lugares turísticos (GET).
+2. Servicio que permita borrar los comentarios con menos puntuación (DELETE).
+3. Agregar nuevos comentarios a la base de datos.
+4. Acceder a la base de datos y buscar los lugares turísticos que el usuario solicite.
+
 ## Vistas de angular
 
 1. Página de bienvenida
