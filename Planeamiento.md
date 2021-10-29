@@ -1,6 +1,8 @@
 ## Base de datos MYSQL
 
--
+- Comentarios de los usuarios
+- Descripciones y opiniones personalizadas de los lugares
+- Preguntas y respuestas del juego de trivia
 
 ## Servicios web
 
